@@ -20,10 +20,14 @@ Wirelss Logic Software Engineering Technical Test
 
 # Running application
 
-``php artisan command:ScrapWebsite``
+``php artisan command:ScrapeWebsite``
 
 # Testing
 
 ``php artisan test``
 
-Inspiration thanks to 
+# Dependencies 
+
+https://roach-php.dev/docs/introduction
+
+Inspiration thanks to https://github.com/Rav9zw/WirelessLogic 
